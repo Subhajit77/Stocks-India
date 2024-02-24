@@ -5,4 +5,4 @@ This document is created with group of Researchers and Analyst on Stock Market &
 
 The Document is self - explanatory
 
-Investing is subject to market Risk, please do your research befor investing.
+Investing is subject to Market Risk, please do your research befor investing.
